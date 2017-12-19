@@ -1,0 +1,8 @@
+MANIFEST.in
+polserver/__init__.py
+polserver/polserver.py
+polserver.egg-info/PKG-INFO
+polserver.egg-info/SOURCES.txt
+polserver.egg-info/dependency_links.txt
+polserver.egg-info/requires.txt
+polserver.egg-info/top_level.txt

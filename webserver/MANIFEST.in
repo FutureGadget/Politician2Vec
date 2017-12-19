@@ -1,0 +1,2 @@
+graft polserver/templates
+graft polserver/static
